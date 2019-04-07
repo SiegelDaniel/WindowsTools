@@ -16,3 +16,7 @@ This moves the CommandLine back to the context menu. On Windows Installations > 
 ## DisableWindowsDefender
 These are both .reg files to disable / enable Windows Defender and all of its options by Registry. 
 Useful when applying the Microsoft Toolkit (MTK64.zip)
+
+## DisableWinTracking
+DWT is a Python utility to disable most known telemetry features of Win 10.
+For more information and for credit, please visit [Dx724 's repo](https://github.com/Dx724/DisableWinTracking)
