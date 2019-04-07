@@ -1,5 +1,5 @@
 # WindowsTools
-Tools for Windows 10
+[kk](https://raw.githubusercontent.com/adolfintel/Windows10-Privacy/master/data/nutella_1809.jpg)
 
 ## Windows10Debloater.ps1
 This removes most of the preinstalled apps from your Windows 10 machine.
@@ -20,3 +20,5 @@ Useful when applying the Microsoft Toolkit (MTK64.zip)
 ## DisableWinTracking
 DWT is a Python utility to disable most known telemetry features of Win 10.
 For more information and for credit, please visit [Dx724 's repo](https://github.com/Dx724/DisableWinTracking)
+
+For a more extensive guide see [here](https://github.com/adolfintel/Windows10-Privacy)
