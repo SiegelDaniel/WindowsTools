@@ -8,3 +8,11 @@ This removes most of the preinstalled apps from your Windows 10 machine.
 3. Move to the directory containing the Windows10Debloater.ps1
 4. ```./Windows10Debloater.ps1```
 5. Wait for it to finish.
+
+
+## CommandLine to ContextMenu
+This moves the CommandLine back to the context menu. On Windows Installations > 1607 this option often is replaced by PowerShell which is irritating sometimes. Works by editing the Registry.
+
+## DisableWindowsDefender
+These are both .reg files to disable / enable Windows Defender and all of its options by Registry. 
+Useful when applying the Microsoft Toolkit (MTK64.zip)
