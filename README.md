@@ -1,5 +1,5 @@
 # WindowsTools
-[kk](https://raw.githubusercontent.com/adolfintel/Windows10-Privacy/master/data/nutella_1809.jpg)
+![kk](https://raw.githubusercontent.com/adolfintel/Windows10-Privacy/master/data/nutella_1809.jpg)
 
 ## Windows10Debloater.ps1
 This removes most of the preinstalled apps from your Windows 10 machine.
